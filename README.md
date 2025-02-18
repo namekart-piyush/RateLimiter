@@ -1,7 +1,7 @@
 # LimitApi
 
 LimitApi is a Java-based API rate limiting library designed to protect API endpoints from excessive load and potential failures.
-
+![Basic Design of LimitApi](./IMG_4798.jpg "LimitApi Design")
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Features](#features)
